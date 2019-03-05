@@ -1,19 +1,13 @@
 
-advancements/1ae62a6f-d5de-4940-8756-50dde8e7196c.json
-data/villages.dat
-data/villages_nether.dat
-data/villages_end.dat
+advancements/
+data/
 icon.png
 level.dat
 level.dat_old
-playerdata/1ae62a6f-d5de-4940-8756-50dde8e7196c.dat
-region/r.-1.-1.mca
-region/r.-1.0.mca
-region/r.0.-1.mca
-region/r.0.0.mca
+playerdata/
+region/
 session.lock
-stats/1ae62a6f-d5de-4940-8756-50dde8e7196c.json
-data/scoreboard.dat
-data/raids.dat
-DIM-1/data/raids_nether.dat
-DIM1/data/raids_end.dat
+stats/
+data/
+DIM-1/
+DIM1/
