@@ -14,3 +14,6 @@ region/r.0.0.mca
 session.lock
 stats/1ae62a6f-d5de-4940-8756-50dde8e7196c.json
 data/scoreboard.dat
+data/raids.dat
+DIM-1/data/raids_nether.dat
+DIM1/data/raids_end.dat
