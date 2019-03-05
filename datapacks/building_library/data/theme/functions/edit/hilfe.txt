@@ -1,0 +1,2 @@
+für weitere paletten einfach die muster.mcfunction kopieren 
+und in entsprechende zahl umbenennen (vorgecodet bis 99)
