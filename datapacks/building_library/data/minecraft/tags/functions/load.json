@@ -2,6 +2,8 @@
   "values":[
 	   "theme:load",
      "twish:load",
-     "announce:load"
+     "announce:load",
+     "signedit:load",
+     "plottemplate:load"
   ]
 }
