@@ -2,6 +2,8 @@
   "values":[
 	   "theme:tick",
      "twish:tick",
-     "announce:tick"
+     "announce:tick",
+     "signedit:tick",
+     "plottemplate:tick"
   ]
 }
