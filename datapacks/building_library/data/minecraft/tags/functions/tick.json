@@ -1,5 +1,7 @@
 {
   "values":[
-	"theme:tick"
+	   "theme:tick",
+     "twish:tick",
+     "announce:tick"
   ]
 }

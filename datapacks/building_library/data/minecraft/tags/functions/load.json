@@ -1,5 +1,7 @@
 {
   "values":[
-	"theme:load"
+	   "theme:load",
+     "twish:load",
+     "announce:load"
   ]
 }
