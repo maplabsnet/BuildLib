@@ -1,6 +1,5 @@
-
 advancements/
-data/
+data/*.dat
 icon.png
 level.dat
 level.dat_old
@@ -8,6 +7,5 @@ playerdata/
 region/
 session.lock
 stats/
-data/
 DIM-1/
 DIM1/
