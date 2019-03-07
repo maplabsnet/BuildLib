@@ -1,0 +1,16 @@
+Dieses Datapack verwendet folgende Tags:
+
+
+/trigger plottemplate:
+plottemplate - Erlaubt Benutzung
+
+plot_template_[zahl von 0-50] - Aktuell nicht genutzt, sollte aber trotzdem zu den armor_stands hinzugefügt werden
+plot_template_all - Alle armor_stands zum neuen Abspeichern der Konstruktionen
+
+/trigger gamemode:
+gamemode.survival - Erlaubt das Wechseln in den Überlebensmodus
+gamemode.creative - Erlaubt das Wechseln in den Kreativmodus.
+gamemode.bypass - Sodass Spieler die keinen Tag haben, in einem Gamemode sind, in diesem auch bleiben können
+
+/trigger deletethemewish:
+deletethemewish - Erlaubt Benutzung
