@@ -14,3 +14,6 @@ gamemode.bypass - Sodass Spieler die keinen Tag haben, in einem Gamemode sind, i
 
 /trigger deletethemewish:
 deletethemewish - Erlaubt Benutzung
+
+/trigger theme:
+theme - Erlaubt Benutzung
