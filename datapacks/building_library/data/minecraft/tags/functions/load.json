@@ -3,7 +3,8 @@
 	   "theme:load",
      "twish:load",
      "announce:load",
-     "signedit:load",
-     "plottemplate:load"
+     "plottemplate:load",
+     "discord:load",
+     "gamemode:load"
   ]
 }
