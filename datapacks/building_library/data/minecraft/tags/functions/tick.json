@@ -5,6 +5,7 @@
      "announce:tick",
      "plottemplate:tick",
      "discord:tick",
-     "gamemode:tick"
+     "gamemode:tick",
+     "teleporter:tick"
   ]
 }
