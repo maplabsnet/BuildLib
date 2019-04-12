@@ -5,6 +5,7 @@
      "announce:load",
      "plottemplate:load",
      "discord:load",
-     "gamemode:load"
+     "gamemode:load",
+     "util:load"
   ]
 }
