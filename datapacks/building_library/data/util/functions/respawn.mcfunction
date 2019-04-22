@@ -7,4 +7,4 @@ scoreboard players operation @a playtime_min /= 600 math
 scoreboard objectives setdisplay sidebar playtime_min
 schedule function util:respawn_b 60s
 
-scoreboard players set @a[scores={relog=1..}] relog 0
+scoreboard players reset @a[scores={relog=1..}] relog
