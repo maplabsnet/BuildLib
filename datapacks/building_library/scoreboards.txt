@@ -1,0 +1,29 @@
+Dieses Datapack benutzt folgende Scoreboards:
+
+announce:
+announce - Zum Schreiben
+
+discord:
+discord - Zum Anzeigen
+
+gamemode:
+gamemode - Zum Switchen des Gamemodes
+gm - Alias für gamemode
+
+plottemplate:
+plottemplate - Zum Aussuchen eines Templates
+
+theme:
+theme - Um eine Template auszusuchen
+
+twish:
+addthemewish - Um einen Themewish vorzuschlagen
+deletethemewish - Um einen Themewish zu löschen
+listthemewishes - Um Themewishes anzuzeigen
+twish.anws - Für das Platzieren der Zettel in der Kiste
+
+util:
+math - Rechenoperationen
+playtime - Spielzeit in Ticks
+playitme_min - Spielzeit in Minuten
+relog - Wenn ein Spieler relogt

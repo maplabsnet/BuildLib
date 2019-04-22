@@ -5,6 +5,9 @@ teleporter_particle_portal - Portal Partikel
 teleporter_start_[zahl von 1 - 20] - Einstig des Teleporters
 teleporter_end_[zahl von 1 - 20] - Ankunft des Teleporters
 
+util:
+mutedAnnouncer - (may be removed in future) To not get join messages
+spawned - Assigned on first join
 
 /trigger plottemplate:
 plottemplate - Erlaubt Benutzung
